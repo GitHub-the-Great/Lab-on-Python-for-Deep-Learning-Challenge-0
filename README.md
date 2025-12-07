@@ -119,6 +119,3 @@ and run all cells.
 * CIFAR-10 dataset
 * ResNet18 implementation from `torchvision`
 * Course/Challenge material: **PDL Challenge 0 (SR+ITL, Feb 21, 2025)**. 
-
-```
-```
